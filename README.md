@@ -1,25 +1,25 @@
 # Customer_churn_analysis
-1. **Project title**
+1. **Project title**:
 Customer Churn Analysis
 This project aims to identify the key drivers of customer churn and provide actionable insights using Microsoft Excel and Power BI, helping businesses improve customer retention and optimize revenue through data-driven decisions.
 
-2. **Short description**
+2. **Short description**:
 The Customer churn analysis dashboard transform raw customer data into intuitive, interactive insights that clearly highlight churn patterns and underlying drivers.
 This dashboard provides a comprehensive and analytical view of customer churn behavior. It supports data-driven decision-making and offers strategic direction for improving customer retention, optimizing revenue, and strengthening long-term customer relationships.
 
-3. **Tech Stack**
+3. **Tech Stack**:
 Microsoft Excel: Data ingestion and initial preprocessing of raw datasets (.csv, .txt)
 Power Query: Data cleaning, transformation, and feature engineering (Age, Age Group, ServiceCount)
 Power BI Desktop: Dashboard development, KPI tracking, and data storytelling
 Data Modeling: Star schema design with DimCustomer (dimension) and FactServices, FactChurn (fact tables) enabling efficient analysis
 File Formats: .csv, .txt (data sources), .pbix (development), .png (dashboard preview)
 
-4. **Data Source**
+4. **Data Source**:
 Dataset provided by the trainer at DataSpace Academy for capstone project purposes, simulating real-world customer churn data.
 
 Structured dataset of ~7000+ customers designed to simulate real-world customer churn scenarios, including customer demographics, service usage, and churn-related attributes.
 
-5. **Highlights**
+5. **Highlights**:
 
 _Business Problem_ - Identify the key factors driving customer churn and determine which customers are most likely to leave, in order to enable proactive retention strategies and minimize revenue loss.
 
@@ -48,6 +48,7 @@ Targeted customer engagement – Reveals demographic churn patterns, supporting 
 Revenue protection – Company can identify segments contributing most to revenue loss, allowing focused retention efforts where impact is highest.
 Personalized marketing enablement – Segmentation-driven strategies can be made to enhance customer experience and reduce churn.
 
-6. Preview
+6. Preview:
 https://github.com/rcchayanika-data/Customer_churn_analysis/blob/main/Snapshot%20of%20PowerBI%20dashboard.png
+https://github.com/rcchayanika-data/Customer_churn_analysis/blob/main/Snapshot2%20of%20PowerBI%20dashboard.png
 
