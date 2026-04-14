@@ -49,4 +49,5 @@ Revenue protection – Company can identify segments contributing most to revenu
 Personalized marketing enablement – Segmentation-driven strategies can be made to enhance customer experience and reduce churn.
 
 6. Preview
+https://github.com/rcchayanika-data/Customer_churn_analysis/blob/main/Snapshot%20of%20PowerBI%20dashboard.png
 
