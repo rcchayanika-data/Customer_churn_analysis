@@ -5,17 +5,16 @@ This project aims to identify the key drivers of customer churn and provide acti
 
 2. **Short description**
 The Customer churn analysis dashboard transform raw customer data into intuitive, interactive insights that clearly highlight churn patterns and underlying drivers.
-
 This dashboard provides a comprehensive and analytical view of customer churn behavior. It supports data-driven decision-making and offers strategic direction for improving customer retention, optimizing revenue, and strengthening long-term customer relationships.
 
-4. **Tech Stack**
+3. **Tech Stack**
 Microsoft Excel: Data ingestion and initial preprocessing of raw datasets (.csv, .txt)
 Power Query: Data cleaning, transformation, and feature engineering (Age, Age Group, ServiceCount)
 Power BI Desktop: Dashboard development, KPI tracking, and data storytelling
 Data Modeling: Star schema design with DimCustomer (dimension) and FactServices, FactChurn (fact tables) enabling efficient analysis
 File Formats: .csv, .txt (data sources), .pbix (development), .png (dashboard preview)
 
-5. **Data Source**
+4. **Data Source**
 Dataset provided by the trainer at DataSpace Academy for capstone project purposes, simulating real-world customer churn data.
 
 Structured dataset of ~7000+ customers designed to simulate real-world customer churn scenarios, including customer demographics, service usage, and churn-related attributes.
